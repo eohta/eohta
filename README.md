@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm a freelance data scientst / algorithm developer from Japan.
+I'm Eiji Ota, a freelance data scientst / algorithm developer from Japan.
+
+If you find a bug in my repository or have some advice for me, please feel free to contact me.
+
+![contact-address](./contact-address.png)
 
 <!--
 **eohta/eohta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
