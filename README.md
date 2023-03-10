@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a freelance data scientst / algorithm developer from Japan.
+
 <!--
 **eohta/eohta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
