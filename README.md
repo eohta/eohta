@@ -2,7 +2,7 @@
 
 I'm Eiji Ota, a freelance data scientst / algorithm developer from Japan.
 
-If you find any bugs in my repository or have any advice, please feel free to send me an email.
+If you find any bugs in my repository or have any advice, please feel free to contact me.
 
 ![contact-address](./contact-address.png)
 
